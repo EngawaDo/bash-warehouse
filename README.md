@@ -10,6 +10,7 @@ chmod +x img_downloader.sh
 
 ## find_similar_images.py
 指定した画像と同じイラストを含む画像をフォルダ仕分けする
+
 実行するには以下のライブラリが必要
 ```
 # ライブラリのインストール
